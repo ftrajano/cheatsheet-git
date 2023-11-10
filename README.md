@@ -21,7 +21,7 @@ A git cheatsheet to help me remembering git commands.
 * **git diff -r HEAD~1**: show differences in the second last commit
 * **git diff name_of_file**: show differences between the non-staged file and the last commit
 * **git diff hashcode1 hashcode2**: show difference between commits
-* **git diff HEAD~2 HEAD~3**: same as above.
+* **git diff HEAD\~2 HEAD\~3**: same as above.
 
 ## Backtrack in git
 * **git checkout HEAD filename**: Discards changes in the working directory.
