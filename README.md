@@ -3,6 +3,7 @@ A git cheatsheet to help me remembering git commands.
 ---
 ## Basic Commands
 + **git log**: show the list of commits made.
+  + **git log -n filename** exhibit n logs of some especific file
 + **git show hashcode**: show details of specific commit.
 + **git show HEAD~3**: show details of the last 4th. commit.
 + **git annotate file_name**: show the changes in the files, line by line, per commit as the author, time, line and line content.
